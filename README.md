@@ -8,11 +8,10 @@
 </p>
 
 ## ⚡ Technologies
-- Mobile development with **React-native**
+- Mobile application development using **React-native**.
 - Backend development using **Node.js, .Net Core**
 - Web development with **React**
 - Desktop application development using **C++**.
-- Mobile application development using **React-native**.
 - Solving Data structure and algorithm questions in **C++**.
 
 ## 🔥 Streak stats
