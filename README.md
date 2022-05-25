@@ -13,6 +13,7 @@
 - Web development with **React**
 - Desktop application development using **C++**.
 - Solving Data structure and algorithm questions in **C++**.
+- Automations using **Python**.
 
 ## 🔥 Streak stats
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
