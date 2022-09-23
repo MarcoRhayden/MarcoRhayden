@@ -25,7 +25,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-000?&logo=socket.io)
-![Socket.io](https://img.shields.io/badge/-boost.cpp-000?&logo=boost.cpp)
+![Boost.cpp](https://img.shields.io/badge/-boost.cpp-000?&logo=boost.cpp)
 
 ### Cryptocurrency
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?&logo=bitcoin)
