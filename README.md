@@ -17,7 +17,7 @@
 
 ## 🔥 Streak stats
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcosette&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarcoRhayden&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MarcoRhayden)
 ![Email Badge](https://img.shields.io/badge/e--mail-Rhayden%40arkansoftware.com-red)
