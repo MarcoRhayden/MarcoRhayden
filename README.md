@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://www.arkansoftware.com">Rhayden</a></h1>
-  <img align='right' src='https://64.media.tumblr.com/717baba1231895eac273cf79d042f13d/99fb765c55ab765d-93/s540x810/174a4baafe94b72f78da5e66759382aae20f16b2.gif' width='200"'>
+  <img align='center' src='https://64.media.tumblr.com/717baba1231895eac273cf79d042f13d/99fb765c55ab765d-93/s540x810/174a4baafe94b72f78da5e66759382aae20f16b2.gif' width='200"'>
 </div>
 
 <p align="center">
