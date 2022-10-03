@@ -41,10 +41,4 @@
 <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="42"></a></code>
 <code><a href="https://code.visualstudio.com/"><img alt="Visual Code" title="Visual Code" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo.png" height="42"></a></code>
 
-
-## Streak stats
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarcoRhayden&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MarcoRhayden)
 ![Email Badge](https://img.shields.io/badge/e--mail-Rhayden%40arkansoftware.com-red)
