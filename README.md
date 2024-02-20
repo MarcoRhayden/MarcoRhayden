@@ -30,6 +30,7 @@
 ### Cryptocurrency
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?&logo=bitcoin)
 ![Ethereum](https://img.shields.io/badge/Ethereum-000?&logo=ethereum)
+![Matic](https://img.shields.io/badge/Matic-000?&logo=polygon)
 
 
 ### Environments I work with
