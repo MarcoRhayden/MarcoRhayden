@@ -1,37 +1,33 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://www.arkansoftware.com">Rhayden</a></h1>
-  <img align='center' src='https://64.media.tumblr.com/717baba1231895eac273cf79d042f13d/99fb765c55ab765d-93/s540x810/174a4baafe94b72f78da5e66759382aae20f16b2.gif' width='200"'>
+   <img align='center' src='https://64.media.tumblr.com/717baba1231895eac273cf79d042f13d/99fb765c55ab765d-93/s540x810/174a4baafe94b72f78da5e66759382aae20f16b2.gif' width='200"'>
 </div>
 
 <p align="center">
-  <a href="https://github.com/MarcoRhayden"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20developer!;Cybersecurity%20and%20Hacking%20Lover;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/MarcoRhayden">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Engineer%20%7C%20Security%20Enthusiast;Building%20scalable%20and%20secure%20systems;Reverse%20engineering%20curious%20mind&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
 </p>
 
-### Languages
+### 💻 Languages & Technologies  
 
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Socket.io](https://img.shields.io/badge/-Socket.io-000?&logo=socket.io)
-![Boost.cpp](https://img.shields.io/badge/-boost.cpp-000?&logo=boost.cpp)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 
 ### Cryptocurrency
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?&logo=bitcoin)
-![Ethereum](https://img.shields.io/badge/Ethereum-000?&logo=ethereum)
-![Matic](https://img.shields.io/badge/Matic-000?&logo=polygon)
-
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
 
 ### Environments I work with
 
@@ -42,4 +38,10 @@
 <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="42"></a></code>
 <code><a href="https://code.visualstudio.com/"><img alt="Visual Code" title="Visual Code" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo.png" height="42"></a></code>
 
-![Email Badge](https://img.shields.io/badge/e--mail-Rhayden%40arkansoftware.com-red)
+### 🚀 Current Focus
+- 💼 Software Engineer at a company developing **solutions for medical clinics**  
+- 🌐 Building **personal full-stack projects** and exploring emerging technologies  
+- 🕵️ Passionate about **reverse engineering & low-level systems**
+
+### 📫 Contact
+[![Email](https://img.shields.io/badge/Email-Rhayden%40arkansoftware.com-red)](mailto:Rhayden@arkansoftware.com)
