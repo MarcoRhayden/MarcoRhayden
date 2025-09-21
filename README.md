@@ -11,19 +11,22 @@
 
 ### 💻 Languages & Technologies  
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
+![Boost.Asio](https://img.shields.io/badge/Boost.Asio-00599C?logo=generic&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![Google Test](https://img.shields.io/badge/Google%20Test-4285F4?logo=generic&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-3B3B3B?logo=generic&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-CC0000?logo=generic&logoColor=white)
 
 ### Cryptocurrency
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white)
