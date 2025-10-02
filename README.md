@@ -44,14 +44,18 @@
   — Deep into **reverse engineering** and **low-level systems** (because it’s fun!)
 
 ## 🔭 Interests / 興味・関心
-System design · Networking · Game-bot engineering (research-focused) · Game reverse engineering · Protocol RE (game stacks)
+System design · Networking · Game-bot engineering (research-focused) · Game reverse engineering · Protocol RE
 システム設計・ネットワーク・ゲームボット設計（研究志向）・ゲームのリバースエンジニアリング・プロトコル解析（ゲーム系）
 
 ## 🏗️ Environments / 環境
-<code><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="32"></code>
-<code><img alt="i3wm" title="i3wm" src="https://github.com/i3/i3/blob/next/docs/logo-30.png" height="32"></code>
-<code><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="32"></code>
-<code><img alt="VS Code" title="VS Code" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo.png" height="32"></code>
+<p align="left" style="display:flex; flex-wrap:wrap; gap:14px; align-items:center;">
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" alt="Arch Linux" height="56">
+  <img src="https://cdn.simpleicons.org/i3/4A4A4A" alt="i3wm" height="56">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="56">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="56">
+  <img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" height="56">
+</p>
+
 
 <img
   src="kiel.gif"
