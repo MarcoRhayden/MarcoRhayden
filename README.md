@@ -1,20 +1,28 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://www.arkansoftware.com">Rhayden</a></h1>
-   <img align='center' src='https://64.media.tumblr.com/717baba1231895eac273cf79d042f13d/99fb765c55ab765d-93/s540x810/174a4baafe94b72f78da5e66759382aae20f16b2.gif' width='200"'>
+  <h1 style="margin:0;padding:0;">
+    Hi, I'm <a href="https://www.arkansoftware.com">Rhayden</a>
+    <span style="font-weight:400;opacity:.85"> · ライデン</span>
+  </h1>
+  <img src="anakin.gif" width="200" alt="Rhayden avatar" />
+  <br><br>
+
+  <em>フルスタック × セキュリティ × リバースエンジニアリング<br/>
+  Building scalable & secure systems — 好きこそ物の上手なれ。</em>
+
+  <p>
+    <a href="https://github.com/MarcoRhayden">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Engineer%20%7C%20Security%20Enthusiast;Reverse%20Engineering%20%E2%9A%99%EF%B8%8F;Low-level%20systems%20%F0%9F%92%BB;Always%20learning%20%E5%AD%A6%E7%BF%92&font=Fira%20Code&center=true&width=640&height=42&color=ff77aa&vCenter=true&size=22">
+    </a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/C%2B%2B20-5B8DEF?logo=c%2B%2B&logoColor=fff&label=Language&labelColor=1b1f24">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&label=Language&labelColor=1b1f24">
+    <img src="https://img.shields.io/badge/Boost.Asio-6a5acd?logo=boost&logoColor=fff&label=Network&labelColor=1b1f24">
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://github.com/MarcoRhayden">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Engineer%20%7C%20Security%20Enthusiast;Building%20scalable%20and%20secure%20systems;Reverse%20engineering%20curious%20mind&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22">
-  </a>
-</p>
-
-### 💻 Languages & Technologies  
-
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-![Boost.Asio](https://img.shields.io/badge/Boost.Asio-00599C?logo=generic&logoColor=white)
+## 💻 Tech / 技術スタック
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -28,23 +36,41 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-CC0000?logo=generic&logoColor=white)
 
-### Cryptocurrency
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+## 🚀 Focus / 今やっていること
+- 医療クリニック向けの **安全で拡張性のあるソフトウェア** を開発  
+  — Building **secure, scalable software** for medical clinics
+- 個人で **フルスタック** プロジェクトを構築・運用  
+  — Running **personal full-stack** projects end-to-end
+- **リバースエンジニアリング** と **低レベル実装** が大好物 (楽しい！)  
+  — Deep into **reverse engineering** and **low-level systems** (because it’s fun!)
 
-### Environments I work with
+## 🔭 Interests / 興味・関心
+System design · Networking · Game-bot engineering (research-focused) · Game reverse engineering · Protocol RE (game stacks)
+システム設計・ネットワーク・ゲームボット設計（研究志向）・ゲームのリバースエンジニアリング・プロトコル解析（ゲーム系）
 
-<code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a></code>
-<code><a href="https://i3wm.org/"><img alt="i3wm" title="i3wm" src="https://github.com/i3/i3/blob/next/docs/logo-30.png" height="42"></a></code>
-<code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></a></code>
-<code><a href="https://github.com/features/packages"><img alt="GitHub Packages" title="GitHub Packages" src="https://github.com/cheesits456/cheesits456/raw/master/icons/packages.png" height="42"></a></code>
-<code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="42"></a></code>
-<code><a href="https://code.visualstudio.com/"><img alt="Visual Code" title="Visual Code" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo.png" height="42"></a></code>
+## 🏗️ Environments / 環境
+<code><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="32"></code>
+<code><img alt="i3wm" title="i3wm" src="https://github.com/i3/i3/blob/next/docs/logo-30.png" height="32"></code>
+<code><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="32"></code>
+<code><img alt="VS Code" title="VS Code" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo.png" height="32"></code>
 
-### 🚀 Current Focus
-- 💼 Software Engineer at a company developing **solutions for medical clinics**  
-- 🌐 Building **personal full-stack projects** and exploring emerging technologies  
-- 🕵️ Passionate about **reverse engineering & low-level systems**
+<img
+  src="darth-vader-transparent.png"
+  width="210"
+  align="right"
+  alt="Mascot"
+  style="margin:8px 0 8px 24px; filter: drop-shadow(0 8px 24px rgba(0,0,0,.35));"
+/>
 
-### 📫 Contact
-[![Email](https://img.shields.io/badge/Email-Rhayden%40arkansoftware.com-red)](mailto:Rhayden@arkansoftware.com)
+## 📫 Contact / 連絡先
+[![Email](https://img.shields.io/badge/Email-Rhayden%40arkansoftware.com-ff3860?logo=gmail&logoColor=fff&labelColor=1b1f24)](mailto:Rhayden@arkansoftware.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@MarcoRhayden-24292e?logo=github&logoColor=fff&labelColor=1b1f24)](https://github.com/MarcoRhayden)
+[![Website](https://img.shields.io/badge/-arkansoftware.com-1b1f24?logo=googlechrome&logoColor=white&labelColor=1b1f24)](https://www.arkansoftware.com)
+
+<br clear="both"/>
+
+<p align="center">
+  <sub>
+    ⚔ <i>混沌の中で鍛え、精密さで届ける。</i> — <i>Forged in chaos. Delivered with precision.</i>
+  </sub>
+</p>
