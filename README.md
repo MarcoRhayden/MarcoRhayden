@@ -34,7 +34,6 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-3B3B3B?logo=generic&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-CC0000?logo=generic&logoColor=white)
 
 ## 🚀 Focus / 今やっていること
 - 医療クリニック向けの **安全で拡張性のあるソフトウェア** を開発  
