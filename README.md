@@ -3,7 +3,7 @@
     Hi, I'm <a href="https://www.arkansoftware.com">Rhayden</a>
     <span style="font-weight:400;opacity:.85"> · ライデン</span>
   </h1>
-  <img src="anakin.gif" width="200" alt="Rhayden avatar" />
+  <img src="anakin.gif" width="480" alt="Rhayden avatar" />
   <br><br>
 
   <em>フルスタック × セキュリティ × リバースエンジニアリング<br/>
