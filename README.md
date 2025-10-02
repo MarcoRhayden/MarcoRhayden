@@ -55,12 +55,14 @@ System design · Networking · Game-bot engineering (research-focused) · Game r
 <code><img alt="VS Code" title="VS Code" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo.png" height="32"></code>
 
 <img
-  src="darth-vader-transparent.png"
+  src="kiel.gif"
   width="210"
   align="right"
-  alt="Mascot"
+  alt="Kiel"
   style="margin:8px 0 8px 24px; filter: drop-shadow(0 8px 24px rgba(0,0,0,.35));"
 />
+
+<br clear="both" />
 
 ## 📫 Contact / 連絡先
 [![Email](https://img.shields.io/badge/Email-Rhayden%40arkansoftware.com-ff3860?logo=gmail&logoColor=fff&labelColor=1b1f24)](mailto:Rhayden@arkansoftware.com)
